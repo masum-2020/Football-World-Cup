@@ -1,0 +1,21 @@
+.banner{
+    display: grid;
+    gap: 24px;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: #161616;
+    width: 1321px;
+    height: 646px;
+}
+.heading-top{
+    color:#FFFFFF;
+}
+.top-banner p{
+    color: #FFFFFF;
+}
+.button-top{
+    background-color: #DD0000;
+    width: 167px;
+    height: 45px;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
